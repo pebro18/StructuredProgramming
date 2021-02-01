@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7dc5bf19-e5c7-41fe-bd47-fada921b86c1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1a\StructuredProgramming.py</StartupFile>
+    <StartupFile>1a\Opdracht4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -41,7 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="1a\" />
-    <Folder Include="1a\NewFolder1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1a\LorumIspum.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

@@ -14,6 +14,6 @@ def Fibonaci(looplst = [0,1]):
     lst.append(nextnumber)
     Fibonaci(lst)
 
-    return lst
+    return lst[-1]
 
 print(Fibonaci())
