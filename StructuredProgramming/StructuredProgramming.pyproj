@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7dc5bf19-e5c7-41fe-bd47-fada921b86c1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1a\Opdracht4.py</StartupFile>
+    <StartupFile>1a\Opdracht5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,8 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1a\Opdracht3.py" />
+    <Compile Include="1a\Opdracht12.py" />
+    <Compile Include="1a\Opdracht11.py" />
     <Compile Include="1a\Opdracht9.py" />
     <Compile Include="1a\Opdracht8.py" />
     <Compile Include="1a\Opdracht7.py" />
